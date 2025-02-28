@@ -3,16 +3,17 @@
 
 **Objective**
 
-This project analyzes historical maintenance records to identify maintenance frequency, common failure types, and key factors affecting equipment lifespan. The goal is to optimize maintenance strategies, improve efficiency, reduce costs, and extend equipment lifespan.
+This project analyzes historical maintenance records to identify maintenance frequency, common failure types, and key factors affecting equipment lifespan. The goal is to optimize maintenance strategies, improve efficiency, reduce costs, and extend equipment lifespan without direct support investigation.
 
 **Background & Business Impact**
 
 Inefficient maintenance leads to excessive downtime, high costs, and reduced asset longevity. Key challenges include:
 
 - **High Maintenance Costs**: Frequent breakdowns increase expenses.
+- **Damaged products**: Damgaged Filter Inks, cause support and investigation activitys.
 - **Unexpected Failures**: Disrupt production and cause financial losses.
 - **Inefficient Scheduling**: Over- or under-maintenance impacts performance.
-- **Underutilized Data**: Missed opportunities for predictive insights.
+- **Underutilized Data**: Missed opportunities for analytical and predictive insights.
 
 Optimizing maintenance can reduce costs, minimize downtime, extend lifespan, and improve decision-making.
 
@@ -35,7 +36,7 @@ Optimizing maintenance can reduce costs, minimize downtime, extend lifespan, and
 2. **Usage Data**: Hours, workload, operator details.
 3. **Equipment Specs**: Model, manufacturer, purchase date, lifespan.
 4. **Operating Conditions**: Temperature, humidity, vibration, dust levels.
-5. **Maintenance Personnel Data**: Technician efficiency, repair times.
+5. **Maintenance Personnel Data**: Technician efficiency, repair times for unuseable components.
 
 **Project Timeline (Week 4 - Week 14)**
 
