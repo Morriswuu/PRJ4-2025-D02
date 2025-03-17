@@ -3,7 +3,13 @@
 
 **Objective**
 
-This project analyzes historical maintenance records to identify maintenance frequency, common failure types, and key factors affecting equipment lifespan. The goal is to optimize maintenance strategies, improve efficiency, reduce costs, and extend equipment lifespan without direct support investigation.
+
+Canon pruction printers, have occuring failings and downtimes related to their Ink Filter Health. 
+This Filter is a central component of the System, so it is attached in every Print Run, which makes it harmful for the Printers as well as subsceptible. TO have the Printers fulfill there workflows and production runs,
+to not cause any delays or costs of service and not provided prodcuts, the Ink Filters have to be maintained. They arent the only component causing errors, so this project is also about figuring out the role in downtimes of the Ink Filter,
+Predicting Downtimes and Maintenance Services. Therefor we can use Prcocess related Data, for analysing and predictions. 
+This project analyzes historical maintenance records to identify maintenance frequency, common failure types, and key factors affecting equipment lifespan. 
+The goal is to optimize maintenance strategies, improve efficiency, reduce costs, and extend equipment lifespan without direct support investigation.
 
 **Background & Business Impact**
 
