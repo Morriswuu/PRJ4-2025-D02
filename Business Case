@@ -1,32 +1,31 @@
-# Initial_ideas_1
+## Initial_ideas_1
 **Equipment Health & Maintenance Data Analysis**
 
-**Objective**
+### Objective
+---
+Canon production printers experience recurring failures and downtime related to ink filter health.
+This filter is a central component of the system and is engaged during every print run, making it critical to printer performance and prone to wear.
+To ensure printers fulfill their workflows and production runs without delays, service costs, or undelivered products, ink filter maintenance is essential.
+While ink filters are not the sole component causing errors, this project focuses on determining their role in downtime incidents, predicting maintenance needs, and optimizing service schedules.
 
+The project analyses historical maintenance records to identify maintenance frequency, common failure types, and key factors affecting equipment lifespan.
+The goal is to optimize maintenance strategies, improve operational efficiency, reduce costs, and extend equipment longevity without requiring direct support investigations.
 
-Canon pruction printers, have occuring failings and downtimes related to their Ink Filter Health. 
-This Filter is a central component of the System, so it is attached in every Print Run, which makes it harmful for the Printers as well as subsceptible. TO have the Printers fulfill there workflows and production runs,
-to not cause any delays or costs of service and not provided prodcuts, the Ink Filters have to be maintained. They arent the only component causing errors, so this project is also about figuring out the role in downtimes of the Ink Filter,
-Predicting Downtimes and Maintenance Services. Therefor we can use Prcocess related Data, for analysing and predictions. 
-This project analyzes historical maintenance records to identify maintenance frequency, common failure types, and key factors affecting equipment lifespan. 
-The goal is to optimize maintenance strategies, improve efficiency, reduce costs, and extend equipment lifespan without direct support investigation.
+### Background & Business Impact
+---
+Inefficient maintenance practices result in excessive downtime, elevated costs, and reduced asset longevity. Key challenges include:   
 
-**Background & Business Impact**
+- **High Maintenance Costs:** Frequent breakdowns escalate repair and labour expenses.  
+- **Product Damage:** Faulty ink filters compromise product quality, requiring support interventions and investigations.  
+- **Unexpected Failures:** Unplanned outages disrupt production schedules and incur financial losses.  
+- **Inefficient Scheduling:** Excessive or insufficient maintenance compromises system performance.  
+- **Underutilized Data:** Unused operational data limits opportunities for predictive and analytical insights.
 
-Inefficient maintenance leads to excessive downtime, high costs, and reduced asset longevity. Key challenges include:
+Optimizing maintenance strategies can reduce operational costs, minimize downtime, extend asset lifespan, and enhance decision-making through data-driven protocols.   
 
-- **High Maintenance Costs**: Frequent breakdowns increase expenses.
-- **Damaged products**: Damgaged Filter Inks, cause support and investigation activitys.
-- **Unexpected Failures**: Disrupt production and cause financial losses.
-- **Inefficient Scheduling**: Over- or under-maintenance impacts performance.
-- **Underutilized Data**: Missed opportunities for analytical and predictive insights.
-
-Optimizing maintenance can reduce costs, minimize downtime, extend lifespan, and improve decision-making.
-
-
-**Expected Outcomes**
-
-1. **Identify high-maintenance equipment and propose preventive strategies.**
-2. **Determine key lifespan-reducing factors and optimize usage.**
-3. **Suggest cost-reduction strategies via scheduling and durable components.**
-4. **Enhance efficiency and minimize downtime through data-driven insights.**
+### Expected Outcomes
+---
+- Identify high-maintenance equipment and establish proactive maintenance strategies.  
+- Determine key factors reducing equipment lifespan and optimize operational parameters.  
+- Recommend cost-saving measures through optimized scheduling and durable component integration.  
+- Enhance operational efficiency and minimize downtime using predictive, data-driven insights.
